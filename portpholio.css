@@ -791,9 +791,7 @@ body{
     font-size: 21px;
     color: #2b436c;
 }
-main{
-    
-}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     .navbar #manu-icon {
