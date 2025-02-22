@@ -222,7 +222,8 @@ body{
     border-radius: 50%;
     margin-left: 200px;
     margin-top: 200px;
-    box-shadow: 5px 5px 10px rgb(97, 97, 97),-5px -5px 10px rgb(103, 103, 103);
+    box-shadow: 5px 5px 10px rgb(77, 77, 77),-5px -5px 10px rgb(77, 77, 77);
+    
 }
 .Home-section{
     width: 550px;
