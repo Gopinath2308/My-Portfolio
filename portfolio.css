@@ -203,7 +203,8 @@ body{
         opacity: 1;
     }
 }
-.menu a:hover{
+.menu a:hover,
+.menu a.active {
     color: #080820;
     text-shadow:4px 4px 7px rgba(1, 1, 74,0.7);
     font-size: 23px;
